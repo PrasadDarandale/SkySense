@@ -33,4 +33,4 @@ The data used in SkySense is collected from public weather and air quality APIs,
   Air Quality Index (AQI) Panel: Presents overall air quality status with pollutant-level breakdown (PM2.5, PM10, NO₂, SO₂, O₃, CO).
 
   Screenshots:
-  ![Dashboard Preview].(https://github.com/PrasadDarandale/SkySense/blob/main/Smart%20Climate%20Dashboard.png)
+  ![Dashboard Preview](https://github.com/PrasadDarandale/SkySense/blob/main/Smart%20Climate%20Dashboard.png).
