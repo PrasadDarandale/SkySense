@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 SkySense is designed to provide a **centralized view of real-time weather and air quality data** using a clean, modern, and user-friendly interface. The dashboard presents:
 
@@ -16,7 +16,7 @@ This enables users to make informed, timely, and safety-focused decisions.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - ** Power BI Desktop** – Main data visualization platform  
 - ** Weather & Air Quality APIs** – Real-time and forecast data sources  
@@ -110,4 +110,4 @@ Data Analytics & Business Intelligence Enthusiast
 
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
+ If you found this project useful, consider giving it a star on GitHub!
