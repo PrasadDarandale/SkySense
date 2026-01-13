@@ -106,7 +106,7 @@ The goal of the SkySense dashboard is to provide a **centralized, real-time view
 ## Author
 
 **Prasad Darandale**  
-Data Analytics & Business Intelligence Enthusiast  
+Data Analytics & Data Scientist  
 
 ---
 
